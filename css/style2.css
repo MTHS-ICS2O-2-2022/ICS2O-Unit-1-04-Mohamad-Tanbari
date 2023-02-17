@@ -1,0 +1,16 @@
+body {
+  background-color: chocolate;
+}
+
+h1, h2{
+  padding: 15px;
+  background-color: moccasin;
+  text-align: center;
+}
+
+td, th{
+  border: 20px, whitesmoke;
+  background-color: crimson;
+  width: 35%;
+  text-align: center;
+}
